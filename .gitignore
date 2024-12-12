@@ -1,0 +1,11 @@
+# We shalt not include config files
+config.json
+
+# We shalt not include files under development
+data_visualization.py
+
+# We shalt not include dependency files
+__pycache__
+
+# We shalt not include raw data imported 
+logfiles.log 
